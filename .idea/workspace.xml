@@ -2,43 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e52de045-a8ac-44e5-9447-6fce17c91b62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode-python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/1-twosum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/100-same-tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/101-symmetric-tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/104-maximum-depth-of-binary-tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/107-binary-tree-level-order-traversal-ii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/108-convert-sorted-array-to-binary-search-tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/110-balanced-binary-tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/111-minimum-depth-of-binary-tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/112-path-sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/13-roman-to-integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/14-longest-common-prefix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/20-valid-parentheses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/21-merge-two-sorted-lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/26-remove-duplicates-from-sorted-array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/27-remove-element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/28-implement-strstr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/35-search-insert-position.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/38-count-and-say.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/53-maximum-subarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/58-length-of-last-word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/66-plus-one.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/67-add-binary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/69-sqrtx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/7-reverse-integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/70-climbing-stairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/83-remove-duplicates-from-sorted-list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/88-merge-sorted-array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/9-palindrome-number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/3-longest-substring-without-repeating-characters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/5-longest-palindromic-substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/add-two-numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree-relative.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/118-pascals-triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/119-pascals-triangle-ii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/121-best-time-to-buy-and-sell-stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/122-best-time-to-buy-and-sell-stock-ii.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,45 +15,42 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/69-sqrtx.py">
+        <entry file="file://$PROJECT_DIR$/easy/121-best-time-to-buy-and-sell-stock.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/110-balanced-binary-tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="128" selection-start-line="128" selection-end-line="139" selection-end-column="8" />
-              <folding>
-                <element signature="e#383#934#0" />
-                <element signature="e#378#950#0" />
-                <element signature="e#378#962#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/111-minimum-depth-of-binary-tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="19" selection-start-line="19" selection-end-line="20" selection-end-column="20" />
+            <state relative-caret-position="234">
+              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/easy/112-path-sum.py">
+        <entry file="file://$PROJECT_DIR$/easy/122-best-time-to-buy-and-sell-stock-ii.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="234">
+              <caret line="133" column="26" lean-forward="true" selection-start-line="133" selection-start-column="26" selection-end-line="133" selection-end-column="26" />
+              <folding>
+                <element signature="e#302#922#0" />
+                <element signature="e#1202#2406#0" />
+                <element signature="e#1257#1533#0" />
+                <element signature="e#302#773#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,27 +60,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="314">
               <caret line="122" column="48" lean-forward="true" selection-start-line="122" selection-start-column="48" selection-end-line="122" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/107-binary-tree-level-order-traversal-ii.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/108-convert-sorted-array-to-binary-search-tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="17" selection-start-line="17" selection-end-line="27" selection-end-column="21" />
-              <folding>
-                <element signature="e#163#186#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -166,6 +111,10 @@
         <option value="$PROJECT_DIR$/easy/111-minimum-depth-of-binary-tree.py" />
         <option value="$PROJECT_DIR$/tree-relative.py" />
         <option value="$PROJECT_DIR$/easy/112-path-sum.py" />
+        <option value="$PROJECT_DIR$/easy/118-pascals-triangle.py" />
+        <option value="$PROJECT_DIR$/easy/119-pascals-triangle-ii.py" />
+        <option value="$PROJECT_DIR$/easy/121-best-time-to-buy-and-sell-stock.py" />
+        <option value="$PROJECT_DIR$/easy/122-best-time-to-buy-and-sell-stock-ii.py" />
       </list>
     </option>
   </component>
@@ -188,6 +137,11 @@
             <path>
               <item name="leetcode-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-python" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -219,73 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.112-path-sum">
-    <configuration name="108-convert-sorted-array-to-binary-search-tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/108-convert-sorted-array-to-binary-search-tree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="110-balanced-binary-tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/110-balanced-binary-tree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="111-minimum-depth-of-binary-tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/111-minimum-depth-of-binary-tree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.122-best-time-to-buy-and-sell-stock-ii">
     <configuration name="112-path-sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -300,6 +188,72 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/112-path-sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="118-pascals-triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/118-pascals-triangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="119-pascals-triangle-ii" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/119-pascals-triangle-ii.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="122-best-time-to-buy-and-sell-stock-ii" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/122-best-time-to-buy-and-sell-stock-ii.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,11 +286,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.122-best-time-to-buy-and-sell-stock-ii" />
+        <item itemvalue="Python.119-pascals-triangle-ii" />
+        <item itemvalue="Python.118-pascals-triangle" />
         <item itemvalue="Python.112-path-sum" />
         <item itemvalue="Python.tree-relative" />
-        <item itemvalue="Python.111-minimum-depth-of-binary-tree" />
-        <item itemvalue="Python.110-balanced-binary-tree" />
-        <item itemvalue="Python.108-convert-sorted-array-to-binary-search-tree" />
       </list>
     </recent_temporary>
   </component>
@@ -350,29 +304,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563528157229</updated>
-      <workItem from="1563528160440" duration="102981000" />
+      <workItem from="1563528160440" duration="122336000" />
     </task>
+    <task id="LOCAL-00001" summary="Upload.">
+      <created>1563953553131</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563953553131</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102981000" />
+    <option name="totallyTimeSpent" value="122336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989899" visible="true" weight="0.24807198" />
       <window_info id="Structure" order="1" sideWeight="0.5010101" side_tool="true" weight="0.24807198" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32884097" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32974428" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32884097" />
+      <window_info anchor="bottom" id="Python Console" weight="0.32884097" />
       <window_info anchor="bottom" id="Terminal" weight="0.32974428" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33378196" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3328841" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -385,6 +348,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upload." />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -409,24 +376,33 @@
           <line>138</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/easy/122-best-time-to-buy-and-sell-stock-ii.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/leetcode_python$27_remove_element.coverage" NAME="27-remove-element Coverage Results" MODIFIED="1563593198094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/leetcode_python$35_search_insert_position.coverage" NAME="35-search-insert-position Coverage Results" MODIFIED="1563596093792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/leetcode_python$66_plus_one.coverage" NAME="66-plus-one Coverage Results" MODIFIED="1563619260018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/leetcode_python$53_maximum_subarray.coverage" NAME="53-maximum-subarray Coverage Results" MODIFIED="1563615519536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/leetcode_python$119_pascals_triangle_ii.coverage" NAME="119-pascals-triangle-ii Coverage Results" MODIFIED="1563957740478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/leetcode_python$112_path_sum.coverage" NAME="112-path-sum Coverage Results" MODIFIED="1563943360243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/leetcode_python$70_climbing_stairs.coverage" NAME="70-climbing-stairs Coverage Results" MODIFIED="1563689799772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/leetcode_python$69_sqrtx.coverage" NAME="69-sqrtx Coverage Results" MODIFIED="1563680831748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/leetcode_python$111_minimum_depth_of_binary_tree.coverage" NAME="111-minimum-depth-of-binary-tree Coverage Results" MODIFIED="1563932387539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/leetcode_python$5_longest_palindromic_substring.coverage" NAME="5-longest-palindromic-substring Coverage Results" MODIFIED="1563551429082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
-    <SUITE FILE_PATH="coverage/leetcode_python$26_remove_duplicates_from_sorted_array.coverage" NAME="26-remove-duplicates-from-sorted-array Coverage Results" MODIFIED="1563592076220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/leetcode_python$38_count_and_say.coverage" NAME="38-count-and-say Coverage Results" MODIFIED="1563604583182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/leetcode_python$reverse_integer.coverage" NAME="reverse-integer Coverage Results" MODIFIED="1563531066770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_python$roman_to_integer.coverage" NAME="roman-to-integer Coverage Results" MODIFIED="1563534812788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_python$118_pascals_triangle.coverage" NAME="118-pascals-triangle Coverage Results" MODIFIED="1563954534314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/leetcode_python$tree_relative.coverage" NAME="tree-relative Coverage Results" MODIFIED="1563938032148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_python$27_remove_element.coverage" NAME="27-remove-element Coverage Results" MODIFIED="1563593198094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/leetcode_python$66_plus_one.coverage" NAME="66-plus-one Coverage Results" MODIFIED="1563619260018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/leetcode_python$70_climbing_stairs.coverage" NAME="70-climbing-stairs Coverage Results" MODIFIED="1563689799772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/leetcode_python$111_minimum_depth_of_binary_tree.coverage" NAME="111-minimum-depth-of-binary-tree Coverage Results" MODIFIED="1563932387539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/leetcode_python$26_remove_duplicates_from_sorted_array.coverage" NAME="26-remove-duplicates-from-sorted-array Coverage Results" MODIFIED="1563592076220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/leetcode_python$38_count_and_say.coverage" NAME="38-count-and-say Coverage Results" MODIFIED="1563604583182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/leetcode_python$20_valid_parentheses.coverage" NAME="20-valid-parentheses Coverage Results" MODIFIED="1563586165736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/leetcode_python$122_best_time_to_buy_and_sell_stock_ii.coverage" NAME="122-best-time-to-buy-and-sell-stock-ii Coverage Results" MODIFIED="1563989979633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/leetcode_python$add_two_numbers.coverage" NAME="add-two-numbers Coverage Results" MODIFIED="1563545295911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
     <SUITE FILE_PATH="coverage/leetcode_python$110_balanced_binary_tree.coverage" NAME="110-balanced-binary-tree Coverage Results" MODIFIED="1563870289086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/leetcode_python$100_same_tree.coverage" NAME="100-same-tree Coverage Results" MODIFIED="1563762242492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
@@ -436,7 +412,6 @@
     <SUITE FILE_PATH="coverage/leetcode_python$palindrome_number.coverage" NAME="palindrome-number Coverage Results" MODIFIED="1563533003245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_python$108_convert_sorted_array_to_binary_search_tree.coverage" NAME="108-convert-sorted-array-to-binary-search-tree Coverage Results" MODIFIED="1563851896078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/leetcode_python$88_merge_sorted_array.coverage" NAME="88-merge-sorted-array Coverage Results" MODIFIED="1563713600505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/leetcode_python$tree_relative.coverage" NAME="tree-relative Coverage Results" MODIFIED="1563938032148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/easy/13-roman-to-integer.py">
@@ -620,13 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/69-sqrtx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/108-convert-sorted-array-to-binary-search-tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="107">
@@ -681,6 +649,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/69-sqrtx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/118-pascals-triangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/119-pascals-triangle-ii.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/121-best-time-to-buy-and-sell-stock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/122-best-time-to-buy-and-sell-stock-ii.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="133" column="26" lean-forward="true" selection-start-line="133" selection-start-column="26" selection-end-line="133" selection-end-column="26" />
+          <folding>
+            <element signature="e#302#922#0" />
+            <element signature="e#1202#2406#0" />
+            <element signature="e#1257#1533#0" />
+            <element signature="e#302#773#0" />
+          </folding>
         </state>
       </provider>
     </entry>
