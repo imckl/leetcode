@@ -12,8 +12,10 @@
 # https://leetcode-cn.com/problems/ransom-note/
 
 
-# Time: O(N)
-# Space: O(1)
+# 检查ransomNote的每个字符是否在magazine字符串中:
+# 如果在则在maazine中移除该一个字符串；
+# 如果不在，则无法构成，返回False
+# 时间复杂度: O(N) 空间复杂度: O(1)
 class Solution(object):
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
         for c in ransomNote:
@@ -24,8 +26,11 @@ class Solution(object):
         return True
 
 
-# Time: O(N)
-# Space: O(1)
+# 1. 用哈希表存储magazine字符及个数
+# 2. 遍历ransomNote:
+#   2.1. 如果哈希表中有该字符并且字符计数大于零，说明仍能由magzine构成，此时对应的字符计数减一
+#   2.2. 否则，无法构成，返回False
+# 时间复杂度: O(N) 空间复杂度: O(N)
 class Solution2(object):
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
         magazine_dict = {}
